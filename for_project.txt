@@ -1,0 +1,4 @@
+Crash -> NO rebalancing
+Can be random delay when sending.
+
+join(?), leave crash recover is one at a time - but crash can stay during other operation
